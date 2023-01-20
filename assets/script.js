@@ -24,17 +24,17 @@ function updateTime() {
 }
 
 // textarea elements
-let saveBttn = $(".save-icon");
+let saveBttn = $(".saveBtn");
 let containerEl = $(".container");
-let schedule9am = $("#9AM");
-let schedule10am = $("#10AM");
-let schedule11am = $("#11AM");
-let schedule12pm = $("#12PM");
-let schedule1pm = $("#1PM");
-let schedule2pm = $("#2PM");
-let schedule3pm = $("#3PM");
-let schedule4pm = $("#4PM");
-let schedule5pm = $("#5PM");
+let schedule9am = $("#9am");
+let schedule10am = $("#10am");
+let schedule11am = $("#11am");
+let schedule12pm = $("#12pm");
+let schedule1pm = $("#13pm");
+let schedule2pm = $("#14pm");
+let schedule3pm = $("#15pm");
+let schedule4pm = $("#16pm");
+let schedule5pm = $("#17pm");
 
 let scheduleElArray = [
     schedule9am,
